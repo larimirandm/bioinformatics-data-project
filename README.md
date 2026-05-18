@@ -1,6 +1,6 @@
 # Bioinformatics Lab Analysis
 
-Projeto fictício para prática de análise de dados laboratoriais e bioinformática utilizando Python.
+Projeto fictício desenvolvido para prática de análise de dados laboratoriais e bioinformática utilizando Python.
 
 ## Tecnologias
 - Python
@@ -9,16 +9,14 @@ Projeto fictício para prática de análise de dados laboratoriais e bioinformá
 - Jupyter Notebook
 
 ## Estrutura
-- data/: datasets
-- notebooks/: análises
-- images/: gráficos
+- data/: datasets laboratoriais
+- notebooks/: análises exploratórias
+- images/: gráficos gerados
 
 ## Objetivo
-Explorar dados laboratoriais simulados e gerar insights biológicos.
-
+Explorar dados laboratoriais simulados para identificar padrões biológicos e relações entre biomarcadores.
 
 ## Insights encontrados
-
-- Pacientes com infecção bacteriana apresentaram PCR mais elevado
-- Carga viral aumentada em amostras virais
-- Correlação moderada entre leucócitos e PCR
+- Pacientes com infecção bacteriana apresentaram níveis mais elevados de PCR
+- Amostras virais demonstraram aumento significativo de carga viral
+- Foi observada correlação moderada entre leucócitos e PCR
